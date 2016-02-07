@@ -1,0 +1,20 @@
+[
+    {
+        "lang": "spanish",
+        "one": "uno",
+        "two": "dos",
+        "three": "tres"
+    },
+    {
+        "lang": "french",
+        "one": "un",
+        "two": "deux",
+        "three": "trios"
+    },
+    {
+        "lang": "latin",
+        "one": "unus",
+        "two": "duo",
+        "three": "tres"
+    }
+]
